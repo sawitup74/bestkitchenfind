@@ -174,3 +174,10 @@ json.dump(WC,open("wordcounts.json","w"),indent=0)
 print(len(DONE),"articles",sum(WC.values()),"words; min",min(WC.values()) if WC else 0)
 for k,v in WC.items():
     if v<1500: print("SHORT",k,v)
+
+# --- slotgrill.com link trim v3 (Keith, 2026-10-24) ---
+# One working button per page + a few contextual links; other slotgrill.com links become plain text.
+# Run with LINKCUT=0 to build the full-link version. Do not remove: the live sites are trimmed.
+import linkcut, os
+LINKCUT_KEEP={"about": ["SlotGrill.com"], "carbon-steel-vs-cast-iron-vs-stainless": ["See the Full Size"], "how-to-season-carbon-steel": ["Seasoning Balm \u00b7 $8.97"], "index": ["Meet the Slot Grill", "Compact \u00b7 $79.97"]}
+linkcut.run(LINKCUT_KEEP, pref='Compact', enabled=os.environ.get("LINKCUT","1")!="0")
