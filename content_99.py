@@ -3,7 +3,7 @@ FAQ=[
 ("Why do you only feature the Slot Grill?","Because this site is about one find, not a list of fifty. We would rather explain one well-made tool in depth than skim across dozens."),
 ("What is a Slot Grill?","A charcoal grill made from thick carbon steel plates that slide together with tabs and slots. It needs no tools, no hinges and no screws, and it sets up in roughly 30 to 60 seconds."),
 ("What sizes does it come in?","Two: the Compact, with a 16.25 × 9 in. grate that suits a household of one to three, and the Full Size, with a 20.5 × 11.25 in. grate for families and groups."),
-("What does a Slot Grill sell for?","The Compact starts at $79.97 and the Full Size at $139.97. Versions with one or two griddle plates cost more; see the product pages for current options."),
+("What does a Slot Grill sell for?","The Compact starts at $89.97 (regular $99.97) and the Full Size at $149.97 (regular $159.97). Versions with one or two griddle plates cost more; see the product pages for current options."),
 ("How heavy are they?","The Compact, in 12-gauge steel, is listed at about 14 pounds. The Full Size, in 10-gauge steel, is listed at about 27.6 pounds."),
 ("How thin is it once packed?","Roughly an inch deep for the Compact and an inch and a quarter for the Full Size."),
 ("Where is it made?","In the USA, in Texas."),

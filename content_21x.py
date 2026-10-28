@@ -241,7 +241,7 @@ They want to try new flavors. Pair a grill with a spice kit of homemade rubs and
 | Under $30 | Thermometer, balm and thermometer bundle, single griddle plate |
 | Under $100 | Slot Grill Compact |
 | Under $150 | Slot Grill Full Size |
-| Under $175 | Slot Grill Full Size with two griddles |
+| Under $200 | Slot Grill Full Size with two griddles |
 
 ### Presentation
 

@@ -10,15 +10,15 @@ The holidays are the season of cooking: roasts, cookies, big family breakfasts, 
 
 ## The showstopper: under $150
 
-### Slot Grill Full Size — $139.97
+### Slot Grill Full Size — $149.97 (regular $159.97)
 
 A heavy-duty carbon steel charcoal grill that slides together by hand and packs flat, the Full Size is a gift that changes how someone cooks. Its 231-square-inch cooking area fits a family meal or a two-zone fire for steaks, and its 10-gauge steel handles cast-iron pans. Broken down it is roughly an inch and a quarter deep. It is made in Texas and sold directly from the maker.
 
-Upgrade options: with one griddle add-on for $154.97, or two griddles for a full flat-top at $174.97.
+Upgrade options: with one griddle add-on for $174.97 (regular $184.97), or two griddles for a full flat-top at $194.97 (regular $204.97).
 
-### Slot Grill Compact — $79.97
+### Slot Grill Compact — $89.97 (regular $99.97)
 
-The Compact is the same design at 80 percent scale, in 12-gauge steel. It weighs about 14 pounds and feeds one to three people. Perfect for apartment dwellers, couples and road trippers. With one griddle, $99.97; with two, $114.97.
+The Compact is the same design at 80 percent scale, in 12-gauge steel. It weighs about 14 pounds and feeds one to three people. Perfect for apartment dwellers, couples and road trippers. With one griddle, $109.97 (regular $119.97); with two, $124.97 (regular $134.97).
 
 ## Under $50
 

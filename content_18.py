@@ -15,17 +15,17 @@ When people move into a new place or combine households, they often end up with 
 
 A grill is a perfect gift for a new home. It invites the couple to cook outdoors, host friends and start new traditions. But consider their space: new homeowners may have a big backyard, while apartment dwellers may have only a small patio or none at all.
 
-### For a house with a yard: Slot Grill Full Size ($139.97)
+### For a house with a yard: Slot Grill Full Size ($149.97, regular $159.97)
 
 A heavy-duty carbon steel charcoal grill with 231 square inches of cooking area, enough for dinner parties and family cookouts. It is made from 10-gauge carbon steel, assembles in 30 to 60 seconds without tools, and packs flat to about 1.25 inches for storage. A great choice for first-time homeowners who want to entertain.
 
-### For an apartment or small patio: Slot Grill Compact ($79.97)
+### For an apartment or small patio: Slot Grill Compact ($89.97, regular $99.97)
 
 The Compact is ideal for couples in smaller spaces. With 146 square inches of cooking area, it feeds one to three people. It weighs about 14 pounds and packs to about an inch thick, so it can be stored in a closet and brought out for picnics, beach trips or permitted patios.
 
 ### Group gift option
 
-Grills make excellent group gifts. Pool resources with friends or family for a Full Size with two griddle plates ($174.97), and include a card signed by everyone.
+Grills make excellent group gifts. Pool resources with friends or family for a Full Size with two griddle plates ($194.97, regular $204.97), and include a card signed by everyone.
 
 ## Gifts that complete the grill
 
@@ -96,7 +96,7 @@ Some of the best wedding and housewarming gifts are experiences:
 If you are the couple building a registry:
 
 - **Register for quality over quantity.** One durable grill is better than three cheap gadgets.
-- **Include a range of prices.** From a $9 seasoning balm to a $175 grill and griddle set.
+- **Include a range of prices.** From a $9 seasoning balm to a $195 grill and griddle set.
 - **Think about your space.** Flat-pack and compact items are great for apartments.
 - **Register for experiences.** Many couples prefer cooking classes or date nights.
 

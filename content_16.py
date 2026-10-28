@@ -18,7 +18,7 @@ For a cook who has everything, a new way to cook is the most exciting gift. A ch
 
 There are two sizes:
 
-### Slot Grill Compact ($79.97)
+### Slot Grill Compact ($89.97, regular $99.97)
 
 - 12-gauge carbon steel, about 14 pounds
 - Cooking area: 16.25 by 9 inches (146 square inches)
@@ -29,7 +29,7 @@ There are two sizes:
 
 **Best for:** apartment dwellers, couples, travelers, campers, tailgaters, and anyone who wants to try charcoal grilling without a big commitment.
 
-### Slot Grill Full Size ($139.97)
+### Slot Grill Full Size ($149.97, regular $159.97)
 
 - 10-gauge carbon steel, about 27.6 pounds
 - Cooking area: 20.5 by 11.25 inches (231 square inches)
@@ -158,7 +158,7 @@ A heavy-duty carbon steel charcoal grill is a gift that will last for many Fathe
 - 231 square inches of cooking area
 - Room for two-zone fires, big cuts and cast iron
 - About 27.6 pounds
-- $139.97 for the grill, $154.97 with one griddle, $174.97 with two
+- $149.97 (regular $159.97) for the grill, $174.97 (regular $184.97) with one griddle, $194.97 (regular $204.97) with two
 
 ### For the adventurer or small-space dad: Compact
 
@@ -166,7 +166,7 @@ A heavy-duty carbon steel charcoal grill is a gift that will last for many Fathe
 - 146 square inches of cooking area
 - About 14 pounds
 - Packs down to about 1 inch thick
-- $79.97 for the grill, $99.97 with one griddle, $114.97 with two
+- $89.97 (regular $99.97) for the grill, $109.97 (regular $119.97) with one griddle, $124.97 (regular $134.97) with two
 
 ## Upgrades for the dad who already grills
 

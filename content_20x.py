@@ -113,7 +113,7 @@ The best gifts start traditions:
 If he already owns a full kitchen of tools, look for things that solve a specific gap:
 
 - A griddle plate for an existing Slot Grill, from $20, to try flat-top breakfasts.
-- A second, smaller grill for camping or tailgates, such as the Compact at $79.97.
+- A second, smaller grill for camping or tailgates, such as the Compact at $89.97 (regular $99.97).
 - A thermometer that lives on the fridge door, thanks to its magnetic back.
 
 ### For grandfathers
@@ -353,7 +353,7 @@ At the lot, you only need to light the fire and cook.
 
 ### Feeding a crowd quickly
 
-For a big group, a flat-top griddle shines. Two griddle plates on a Full Size Slot Grill create a large flat cooking area for smash burgers, sausages and peppers, or breakfast before an early game. The Full Size with two griddles is listed at $174.97.
+For a big group, a flat-top griddle shines. Two griddle plates on a Full Size Slot Grill create a large flat cooking area for smash burgers, sausages and peppers, or breakfast before an early game. The Full Size with two griddles is listed at $194.97 (regular $204.97).
 
 ### Cold-weather tailgates
 
