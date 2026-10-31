@@ -19,7 +19,7 @@ FAQ=[
 ("Can I use the grill indoors?","No. Charcoal produces carbon monoxide. Only grill outdoors in open air, never in a garage, tent or enclosed porch."),
 ("Can I use it on a balcony?","Check your lease and local fire codes first. Many buildings restrict charcoal on balconies."),
 ("Lump charcoal or briquettes?","Both work. Lump lights faster and burns hotter; briquettes burn more evenly and longer. See our charcoal guide for details."),
-("Do you run ads or tracking?","No ads, no tracking pixels and no analytics scripts."),
+("Do you run ads?","No ads."),
 ("Are the recipes tested?","Recipes are written for home kitchens with clear temperatures and timing. Grills, fuel and weather vary, so always check doneness with a thermometer."),
 ("Can I suggest a recipe or topic?","Yes. We are always looking for new cookout ideas, and reader questions shape what we write next."),
 ]
