@@ -44,7 +44,7 @@ Most kitchen sites try to cover every gadget on the market. We went the other wa
 - We feature one product line and explain it in depth.
 - Every product fact on this site is checked against the maker's own listings. If a spec is not published, we do not guess.
 - Food safety temperatures follow USDA guidance.
-- No ads, no tracking pixels and no sponsored content.
+- No ads and no sponsored content.
 
 ## Who is behind it
 
