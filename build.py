@@ -119,7 +119,7 @@ def shell(title,desc,slug,inner,img=None,extra=""):
 <div class="bar">Kitchen find of the year: <a href="{FULL}">the Slot Grill</a> · collapsible carbon steel, made in Texas</div>
 <header class="top"><div class="in"><a class="brand" href="/">Best<i>Kitchen</i><b>Find</b></a><nav>{NAV}</nav></div></header>
 <main>{inner}</main>
-<footer><div class="in"><p class="brand">Best<i>Kitchen</i><b>Find</b></p><p>Recipes, technique and gift ideas for home cooks, with one tool we keep coming back to: the Slot Grill. No ads, no tracking pixels, no sponsored lists. Every product link here points to <a href="{FULL}">SlotGrill.com</a>, which sells direct from the shop in Texas. Slot Grill® is a registered trademark.</p><p>{" · ".join(f'<a href="/{c[0]}.html">{c[1]}</a>' for c in CATS.values())} · <a href="/faq.html">FAQ</a> · <a href="/about.html">About</a></p><p style="font-size:.8rem">Food safety temperatures follow USDA guidance. Always grill outdoors with good ventilation and follow local burn rules.</p></div></footer><script data-goatcounter="https://bestkitchenfind.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script></body></html>'''
+<footer><div class="in"><p class="brand">Best<i>Kitchen</i><b>Find</b></p><p>Recipes, technique and gift ideas for home cooks, with one tool we keep coming back to: the Slot Grill. No ads, no tracking pixels, no sponsored lists. Every product link here points to <a href="{FULL}">SlotGrill.com</a>, which sells direct from the shop in Texas. Slot Grill® is a registered trademark.</p><p>{" · ".join(f'<a href="/{c[0]}.html">{c[1]}</a>' for c in CATS.values())} · <a href="/faq.html">FAQ</a> · <a href="/about.html">About</a></p><p style="font-size:.8rem">Food safety temperatures follow USDA guidance. Always grill outdoors with good ventilation and follow local burn rules.</p></div></footer><script data-goatcounter="https://bestkitchenfind.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script><script>document.addEventListener("click",function(e){{var a=e.target.closest&&e.target.closest('a[href*="slotgrill.com"]');if(a&&window.goatcounter&&window.goatcounter.count){{window.goatcounter.count({{path:"click-to-slotgrill/"+location.pathname,title:"Click to slotgrill.com",event:true}})}}}});</script></body></html>'''
 def sidebar(slug,cat):
     rel=[p for p in DONE if p[3]==cat and p[0]!=slug][:7]
     c=CATS[cat]
@@ -181,3 +181,11 @@ for k,v in WC.items():
 import linkcut, os
 LINKCUT_KEEP={"about": ["SlotGrill.com"], "carbon-steel-vs-cast-iron-vs-stainless": ["See the Full Size"], "how-to-season-carbon-steel": ["Seasoning Balm \u00b7 $8.97"], "index": ["Meet the Slot Grill", "Compact \u00b7 $89.97"]}
 linkcut.run(LINKCUT_KEEP, pref='Compact', enabled=os.environ.get("LINKCUT","1")!="0")
+
+# post-process: UTM tags on every slotgrill.com link (added Oct 31 2026)
+import glob as _g, re as _re
+_pat=_re.compile(r'href="(https://slotgrill\.com[^"?#]*)"')
+for _f in _g.glob("*.html"):
+    _s=open(_f,encoding="utf-8").read()
+    _s2=_pat.sub(lambda m:'href="%s?utm_source=bestkitchenfind&amp;utm_medium=referral&amp;utm_campaign=guide-site"'%m.group(1),_s)
+    if _s2!=_s: open(_f,"w",encoding="utf-8").write(_s2)
